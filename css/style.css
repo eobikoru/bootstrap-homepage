@@ -1,0 +1,23 @@
+.jumbotron {
+    padding: 120px;
+    margin-bottom: 2rem;
+    background-color: blueviolet;
+    border-radius: .3rem;  
+  }
+
+.jumbotron {
+    height: 500px;
+    color: white;
+    background-image: url('../pictures/background.jpg');
+    background-size: 100%;
+}
+
+.fresh-container{
+    background-color: rgb(216, 118, 101);
+    color: white;
+
+}
+
+
+
+
